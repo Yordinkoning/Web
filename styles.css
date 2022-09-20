@@ -10,5 +10,15 @@ h1 {
   text-align: center;
   font-size: 100px;
     font-family: 'Bebas Neue';
-  text-shadow: 0 0 100px #ffffff
+  text-shadow: 0 0 100px #ffffff;
+  animation: fadein 2s;
+}
+
+@keyframes fadein {
+  from {
+      opacity:0;
+  }
+  to {
+      opacity:1;
+  }
 }
