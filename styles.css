@@ -5,10 +5,10 @@ background: linear-gradient(to right, #eaafc8, #654ea3);
 }
 
 h1 {
-  color: #348743;
+  color: #ffffff;
   letter-spacing: 5px;
   text-align: center;
   font-size: 100px;
     font-family: 'Bebas Neue';
-  text-shadow: 0 0 100px #ffffff
+  text-shadow: 0 0 100px #348743
 }
