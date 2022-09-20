@@ -11,10 +11,10 @@ h1 {
   font-size: 100px;
     font-family: 'Bebas Neue';
   text-shadow: 0 0 100px #ffffff;
-  animation: fadein 2s;
+  -webkit-animation: fadein 2s;
 }
 
-@keyframes fadein {
+@-webkit-keyframes fadein {
   from {
       opacity:0;
   }
