@@ -4,7 +4,7 @@ background: -webkit-linear-gradient(to right, #eaafc8, #654ea3);
 background: linear-gradient(to right, #eaafc8, #654ea3);
 }
 
-title {
+h1 {
   color: #ffffff;
   letter-spacing: 5px;
   text-align: center;
