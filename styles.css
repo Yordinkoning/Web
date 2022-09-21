@@ -10,7 +10,7 @@ h1 {
   letter-spacing: 5px;
   text-align: center;
   font-size: 100px;
-    font-family: 'Bebas Neue';
+  font-family: 'Bebas Neue';
   text-shadow: 0 0 100px #ffffff;
   -webkit-animation: fadein 2s;
 }
@@ -22,7 +22,7 @@ div {
   padding: 50px;
   margin-right: auto;
   margin-left: auto;
-    font-family: 'Arial';
+  font-family: 'Arial';
   box-shadow: 0 0 100px #ffffff;
   -webkit-animation: fadein 2s;
 }
