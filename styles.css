@@ -19,7 +19,8 @@ div {
   background-color: white;
   width: 300px;
   padding: 50px;
-  margin: 20px;
+  margin-right: auto;
+  margin-left: auto;
   text-shadow: 0 0 100px #ffffff;
   -webkit-animation: fadein 2s;
 }
