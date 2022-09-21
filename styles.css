@@ -21,7 +21,7 @@ div {
   padding: 50px;
   margin-right: auto;
   margin-left: auto;
-  text-shadow: 0 0 100px #ffffff;
+  box-shadow: 0 0 100px #ffffff;
   -webkit-animation: fadein 2s;
 }
 
