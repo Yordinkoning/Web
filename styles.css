@@ -18,7 +18,8 @@ h1 {
 div {
   background-color: white;
   width: 300px;
-  padding: 550px;
+  height: 550px;
+  padding: 50px;
   margin-right: auto;
   margin-left: auto;
   box-shadow: 0 0 100px #ffffff;
