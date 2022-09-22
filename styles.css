@@ -3,10 +3,6 @@ Main {
   height: 600px;
 }
 
-body {
-  font-family: Arial;
-}
-
 * {
   box-sizing: border-box;
 }
