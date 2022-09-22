@@ -1,5 +1,10 @@
-body {
+Main {
   background: #D2DAFF;
+  height: 600px;
+}
+
+Second {
+  background: #ffffff;
   height: 600px;
 }
 
