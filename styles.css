@@ -15,6 +15,9 @@ body {
 }
 
 .material-symbols-outlined {
+  height: 30px;
+  width: 30px;
+  color: #D2DAFF;
   font-variation-settings:
   'FILL' 1,
   'wght' 400,
