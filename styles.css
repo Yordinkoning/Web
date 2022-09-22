@@ -31,7 +31,18 @@ body {
   border-top-right-radius: 4px;
 }
 
+.wback {
+  padding: 10px;
+  background: #ffffff;
+  border-top-left-radius: 4px;
+  border-top-right-radius: 4px;
+}
+
 .content {
+  color: #D2DAFF;
+  text-align: center;
+  font-size: 100px;
+  font-family: 'Bebas Neue';
   padding: 10px;
 }
 
