@@ -19,10 +19,12 @@ div {
   border-radius: 25px;
   background-color: white;
   width: 300px;
-  height: 550px;
+  height: 150px;
   padding: 50px;
   margin-right: auto;
   margin-left: auto;
+  margin-top: auto;
+  margin-bottom: auto;
   font-family: 'Arial';
   box-shadow: 0 0 100px #ffffff;
   -webkit-animation: fadein 2s;
