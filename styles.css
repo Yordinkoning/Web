@@ -35,6 +35,9 @@ body {
 }
 
 .content {
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
   color: #D2DAFF;
   text-align: center;
   font-size: 100px;
