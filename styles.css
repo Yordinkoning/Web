@@ -8,6 +8,8 @@ background: linear-gradient(to right, #F2A65A, #772F1A); /* W3C, IE 10+/ Edge, F
 h1 {
   color: #ffffff;
   letter-spacing: 5px;
+  height: 100px;
+  line-height: 100px;
   text-align: center;
   font-size: 100px;
   font-family: 'Bebas Neue';
