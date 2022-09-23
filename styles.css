@@ -1,10 +1,9 @@
 body {
   background: #D2DAFF;
-  height: 2000px;
+  height: 400%;
 }
 
 * {
-  position: -webkit-sticky;
   box-sizing: border-box;
 }
 
