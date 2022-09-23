@@ -40,7 +40,7 @@ body {
 
 .wback {
   padding: 10px;
-  background-color: #ffffff;
+  background: #ffffff;
   opacity: 0.3;
   background-size: 10px 10px;
   background-image: repeating-linear-gradient(45deg, #f6f6f6 0, #f6f6f6 1px, #ffffff 0, #ffffff 50%);
