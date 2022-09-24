@@ -58,7 +58,6 @@ body {
   font-size: 100px;
   font-family: 'Bebas Neue';
   padding: 10px;
-  position: fixed;
 }
 
 @-webkit-keyframes fadein {
